@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Find Someone Who",
-    "section": "",
-    "text": "To play, first find your personalized clue! Either\n\nstarty typing your first name in the search field\nor click the top-left button to find yourself in a list of names\n\nIf you don’t see yourself on the list, we must have missed you with a technical glitch. We are only amateurs at phone-based wedding games!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "katie_l.html",
-    "href": "katie_l.html",
-    "title": "Katie L.",
-    "section": "",
-    "text": "Hi Katie! Your goal is to find someone who competed on a college track team. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "schoolteachers.html",
-    "href": "schoolteachers.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "ian_l.html",
-    "href": "ian_l.html",
-    "title": "Ian L.",
-    "section": "",
-    "text": "Hi Ian! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
-  },
-  {
     "objectID": "alyssa_c.html",
     "href": "alyssa_c.html",
     "title": "Alyssa C.",
@@ -89,6 +54,13 @@
     "title": "Jennie L.",
     "section": "",
     "text": "Hi Jennie! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "katie_l.html",
+    "href": "katie_l.html",
+    "title": "Katie L.",
+    "section": "",
+    "text": "Hi Katie! Your goal is to find someone who competed on a college track team. There are 2 people (including you) with this clue. See if you can find them all!"
   },
   {
     "objectID": "emily_l.html",
@@ -224,368 +196,18 @@
     "text": "Hi Tito! Your goal is to find someone who enjoys weightlifting. There are 3 people (including you) with this clue. See if you can find them all!"
   },
   {
-    "objectID": "claudia_r.html",
-    "href": "claudia_r.html",
-    "title": "Claudia R.",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Find Someone Who",
     "section": "",
-    "text": "Hi Claudia! Your goal is to find someone who has been in a Bible study with a parent of the bride or groom. There are 8 people (including you) with this clue. See if you can find them all!"
+    "text": "To play, first find your personalized clue! Either\n\nstarty typing your first name in the search field\nor click the top-left button to find yourself in a list of names\n\nIf you don’t see yourself on the list, we must have missed you with a technical glitch. We are only amateurs at phone-based wedding games!"
   },
   {
-    "objectID": "nora_a.html",
-    "href": "nora_a.html",
-    "title": "Nora A.",
+    "objectID": "bob_p.html",
+    "href": "bob_p.html",
+    "title": "Bob P.",
     "section": "",
-    "text": "Hi Nora! Your goal is to find someone who has lived in Maryland. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "david_n.html",
-    "href": "david_n.html",
-    "title": "David N.",
-    "section": "",
-    "text": "Hi David! Your goal is to find someone who has backpacked with Ian in Yosemite. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "julie_l.html",
-    "href": "julie_l.html",
-    "title": "Julie L.",
-    "section": "",
-    "text": "Hi Julie! Your goal is to find someone who has a child who will be a student at USC this spring (or is already). There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "gerald_h.html",
-    "href": "gerald_h.html",
-    "title": "Gerald H.",
-    "section": "",
-    "text": "Hi Gerald! Your goal is to find someone who grew up in Illinois. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "jeff_l.html",
-    "href": "jeff_l.html",
-    "title": "Jeff L.",
-    "section": "",
-    "text": "Hi Jeff! Your goal is to find someone who has camped with Ian’s family. There are 4 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "becca_t.html",
-    "href": "becca_t.html",
-    "title": "Becca T.",
-    "section": "",
-    "text": "Hi Becca! Your goal is to find someone who is a cousin of the bride or groom. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "chelsea_c.html",
-    "href": "chelsea_c.html",
-    "title": "Chelsea C.",
-    "section": "",
-    "text": "Hi Chelsea! Your goal is to find someone who lives near the 405 in LA. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "shengxi_l.html",
-    "href": "shengxi_l.html",
-    "title": "Shengxi L.",
-    "section": "",
-    "text": "Hi Shengxi! Your goal is to find someone who was a student with Ian, but then went on to get a law degree. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "debbie_b.html",
-    "href": "debbie_b.html",
-    "title": "Debbie B.",
-    "section": "",
-    "text": "Hi Debbie! Your goal is to find someone who went to Norway this year. There are 4 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "carol_l.html",
-    "href": "carol_l.html",
-    "title": "Carol L.",
-    "section": "",
-    "text": "Hi Carol! Your goal is to find someone who has backpacked with Ian in Yosemite. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "jarrett_c.html",
-    "href": "jarrett_c.html",
-    "title": "Jarrett C.",
-    "section": "",
-    "text": "Hi Jarrett! Your goal is to find someone who can be the life of the party in a youth group or on the dance floor. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "maritsa_n.html",
-    "href": "maritsa_n.html",
-    "title": "Maritsa N.",
-    "section": "",
-    "text": "Hi Maritsa! Your goal is to find someone who came with someone who works with Katie. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "jackie_e.html",
-    "href": "jackie_e.html",
-    "title": "Jackie E.",
-    "section": "",
-    "text": "Hi Jackie! Your goal is to find someone who is a sibling or sibling-in-law of a parent of the bride or groom. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "kathy_l.html",
-    "href": "kathy_l.html",
-    "title": "Kathy L.",
-    "section": "",
-    "text": "Hi Kathy! Your goal is to find someone who was a schoolteacher for many years. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "brent_p.html",
-    "href": "brent_p.html",
-    "title": "Brent P.",
-    "section": "",
-    "text": "Hi Brent! Your goal is to find someone who has trained to be a firefighter. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "brian_s.html",
-    "href": "brian_s.html",
-    "title": "Brian S.",
-    "section": "",
-    "text": "Hi Brian! Your goal is to find someone who sang in a choir in college. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "troy_p.html",
-    "href": "troy_p.html",
-    "title": "Troy P.",
-    "section": "",
-    "text": "Hi Troy! Your goal is to find someone who has owned a pair of fins for boogie boarding. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "raul_e.html",
-    "href": "raul_e.html",
-    "title": "Raul E.",
-    "section": "",
-    "text": "Hi Raul! Your goal is to find someone who is a sibling or sibling-in-law of a parent of the bride or groom. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "peter_l.html",
-    "href": "peter_l.html",
-    "title": "Peter L.",
-    "section": "",
-    "text": "Hi Peter! Your goal is to find someone who sang in a choir in college. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "marco_r.html",
-    "href": "marco_r.html",
-    "title": "Marco R.",
-    "section": "",
-    "text": "Hi Marco! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "baobao_z.html",
-    "href": "baobao_z.html",
-    "title": "Baobao Z.",
-    "section": "",
-    "text": "Hi Baobao! Your goal is to find someone who enjoys cross-country skiing. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "soonhong's_g.html",
-    "href": "soonhong's_g.html",
-    "title": "Soonhong’s G.",
-    "section": "",
-    "text": "Hi Soonhong’s! Your goal is to find someone who maintains an Instagram account connected to their hobby. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "heejoon_u.html",
-    "href": "heejoon_u.html",
-    "title": "Heejoon U.",
-    "section": "",
-    "text": "Hi Heejoon! Your goal is to find someone who lives near the 405 in LA. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "nanum_j.html",
-    "href": "nanum_j.html",
-    "title": "Nanum J.",
-    "section": "",
-    "text": "Hi Nanum! Your goal is to find someone who has been training for a half marathon. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "nick_l.html",
-    "href": "nick_l.html",
-    "title": "Nick L.",
-    "section": "",
-    "text": "Hi Nick! Your goal is to find someone who graduated from Davis. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "mindy_l.html",
-    "href": "mindy_l.html",
-    "title": "Mindy L.",
-    "section": "",
-    "text": "Hi Mindy! Your goal is to find someone who has had a close family member in Idaho. There are 1 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "kelley_p.html",
-    "href": "kelley_p.html",
-    "title": "Kelley P.",
-    "section": "",
-    "text": "Hi Kelley! Your goal is to find someone who is here with one of the Poole brothers. There are 1 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "rachel_c.html",
-    "href": "rachel_c.html",
-    "title": "Rachel C.",
-    "section": "",
-    "text": "Hi Rachel! Your goal is to find someone who is or has been a medical resident in the state of Michigan. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "nick_m.html",
-    "href": "nick_m.html",
-    "title": "Nick M.",
-    "section": "",
-    "text": "Hi Nick! Your goal is to find someone who has owned a pair of fins for boogie boarding. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "peter_k.html",
-    "href": "peter_k.html",
-    "title": "Peter K.",
-    "section": "",
-    "text": "Hi Peter! Your goal is to find someone who lives in the Washington, DC area. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "rebecca_j.html",
-    "href": "rebecca_j.html",
-    "title": "Rebecca J.",
-    "section": "",
-    "text": "Hi Rebecca! Your goal is to find someone who grew up in Illinois. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "bram_v.html",
-    "href": "bram_v.html",
-    "title": "Bram V.",
-    "section": "",
-    "text": "Hi Bram! Your goal is to find someone who has lived in the Netherlands. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "melissa_m.html",
-    "href": "melissa_m.html",
-    "title": "Melissa M.",
-    "section": "",
-    "text": "Hi Melissa! Your goal is to find someone who has been in a Bible study with a parent of the bride or groom. There are 8 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "dan_b.html",
-    "href": "dan_b.html",
-    "title": "Dan B.",
-    "section": "",
-    "text": "Hi Dan! Your goal is to find someone who went to Norway this year. There are 4 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "christina_e.html",
-    "href": "christina_e.html",
-    "title": "Christina E.",
-    "section": "",
-    "text": "Hi Christina! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "shannon_o.html",
-    "href": "shannon_o.html",
-    "title": "Shannon O.",
-    "section": "",
-    "text": "Hi Shannon! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "christina_s.html",
-    "href": "christina_s.html",
-    "title": "Christina S.",
-    "section": "",
-    "text": "Hi Christina! Your goal is to find someone who has been in a Bible study with a parent of the bride or groom. There are 8 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "wylie_d.html",
-    "href": "wylie_d.html",
-    "title": "Wylie D.",
-    "section": "",
-    "text": "Hi Wylie! Your goal is to find someone who is a nurse. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "phil_m.html",
-    "href": "phil_m.html",
-    "title": "Phil M.",
-    "section": "",
-    "text": "Hi Phil! Your goal is to find someone who has camped with Ian’s family. There are 4 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "franzi_k.html",
-    "href": "franzi_k.html",
-    "title": "Franzi K.",
-    "section": "",
-    "text": "Hi Franzi! Your goal is to find someone who has lived in the Netherlands. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "jennie_b.html",
-    "href": "jennie_b.html",
-    "title": "Jennie B.",
-    "section": "",
-    "text": "Hi Jennie! Your goal is to find someone who has a child who will be a student at USC this spring (or is already). There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "suzanne_b.html",
-    "href": "suzanne_b.html",
-    "title": "Suzanne B.",
-    "section": "",
-    "text": "Hi Suzanne! Your goal is to find someone who lives within 3 miles of Griffith Park. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "spencer_w.html",
-    "href": "spencer_w.html",
-    "title": "Spencer W.",
-    "section": "",
-    "text": "Hi Spencer! Your goal is to find someone who lives in the Washington, DC area. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "daniel_e.html",
-    "href": "daniel_e.html",
-    "title": "Daniel E.",
-    "section": "",
-    "text": "Hi Daniel! Your goal is to find someone who can be the life of the party in a youth group or on the dance floor. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "jessica_w.html",
-    "href": "jessica_w.html",
-    "title": "Jessica W.",
-    "section": "",
-    "text": "Hi Jessica! Your goal is to find someone who bikes rather than driving whenever possible. There are 1 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "richie_g.html",
-    "href": "richie_g.html",
-    "title": "Richie G.",
-    "section": "",
-    "text": "Hi Richie! Your goal is to find someone who was a student with Ian, but then went on to get a law degree. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "caleb_p.html",
-    "href": "caleb_p.html",
-    "title": "Caleb P.",
-    "section": "",
-    "text": "Hi Caleb! Your goal is to find someone who came with someone who works with Katie. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "riley_b.html",
-    "href": "riley_b.html",
-    "title": "Riley B.",
-    "section": "",
-    "text": "Hi Riley! Your goal is to find someone who has lived in the Lake Tahoe / Reno area. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "cyndi_d.html",
-    "href": "cyndi_d.html",
-    "title": "Cyndi D.",
-    "section": "",
-    "text": "Hi Cyndi! Your goal is to find someone who is an attorney practicing in the LA area. There are 2 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "patrick_p.html",
-    "href": "patrick_p.html",
-    "title": "Patrick P.",
-    "section": "",
-    "text": "Hi Patrick! Your goal is to find someone who has lived in Maryland. There are 3 people (including you) with this clue. See if you can find them all!"
-  },
-  {
-    "objectID": "ariana_p.html",
-    "href": "ariana_p.html",
-    "title": "Ariana P.",
-    "section": "",
-    "text": "Hi Ariana! Your goal is to find someone who has lived in Claremont while working at Caltech. There are 2 people (including you) with this clue. See if you can find them all!"
+    "text": "Hi Bob! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
   },
   {
     "objectID": "daniela_u.html",
@@ -595,11 +217,375 @@
     "text": "Hi Daniela! Your goal is to find someone who lives within 3 miles of Griffith Park. There are 2 people (including you) with this clue. See if you can find them all!"
   },
   {
-    "objectID": "bob_p.html",
-    "href": "bob_p.html",
-    "title": "Bob P.",
+    "objectID": "ariana_p.html",
+    "href": "ariana_p.html",
+    "title": "Ariana P.",
     "section": "",
-    "text": "Hi Bob! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
+    "text": "Hi Ariana! Your goal is to find someone who has lived in Claremont while working at Caltech. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "patrick_p.html",
+    "href": "patrick_p.html",
+    "title": "Patrick P.",
+    "section": "",
+    "text": "Hi Patrick! Your goal is to find someone who has lived in Maryland. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "cyndi_d.html",
+    "href": "cyndi_d.html",
+    "title": "Cyndi D.",
+    "section": "",
+    "text": "Hi Cyndi! Your goal is to find someone who is an attorney practicing in the LA area. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "riley_b.html",
+    "href": "riley_b.html",
+    "title": "Riley B.",
+    "section": "",
+    "text": "Hi Riley! Your goal is to find someone who has lived in the Lake Tahoe / Reno area. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "caleb_p.html",
+    "href": "caleb_p.html",
+    "title": "Caleb P.",
+    "section": "",
+    "text": "Hi Caleb! Your goal is to find someone who came with someone who works with Katie. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "richie_g.html",
+    "href": "richie_g.html",
+    "title": "Richie G.",
+    "section": "",
+    "text": "Hi Richie! Your goal is to find someone who was a student with Ian, but then went on to get a law degree. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "jessica_w.html",
+    "href": "jessica_w.html",
+    "title": "Jessica W.",
+    "section": "",
+    "text": "Hi Jessica! Your goal is to find someone who bikes rather than driving whenever possible. There are 1 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "daniel_e.html",
+    "href": "daniel_e.html",
+    "title": "Daniel E.",
+    "section": "",
+    "text": "Hi Daniel! Your goal is to find someone who can be the life of the party in a youth group or on the dance floor. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "spencer_w.html",
+    "href": "spencer_w.html",
+    "title": "Spencer W.",
+    "section": "",
+    "text": "Hi Spencer! Your goal is to find someone who lives in the Washington, DC area. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "suzanne_b.html",
+    "href": "suzanne_b.html",
+    "title": "Suzanne B.",
+    "section": "",
+    "text": "Hi Suzanne! Your goal is to find someone who lives within 3 miles of Griffith Park. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "jennie_b.html",
+    "href": "jennie_b.html",
+    "title": "Jennie B.",
+    "section": "",
+    "text": "Hi Jennie! Your goal is to find someone who has a child who will be a student at USC this spring (or is already). There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "franzi_k.html",
+    "href": "franzi_k.html",
+    "title": "Franzi K.",
+    "section": "",
+    "text": "Hi Franzi! Your goal is to find someone who has lived in the Netherlands. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "phil_m.html",
+    "href": "phil_m.html",
+    "title": "Phil M.",
+    "section": "",
+    "text": "Hi Phil! Your goal is to find someone who has camped with Ian’s family. There are 4 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "wylie_d.html",
+    "href": "wylie_d.html",
+    "title": "Wylie D.",
+    "section": "",
+    "text": "Hi Wylie! Your goal is to find someone who is a nurse. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "christina_s.html",
+    "href": "christina_s.html",
+    "title": "Christina S.",
+    "section": "",
+    "text": "Hi Christina! Your goal is to find someone who has been in a Bible study with a parent of the bride or groom. There are 8 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "shannon_o.html",
+    "href": "shannon_o.html",
+    "title": "Shannon O.",
+    "section": "",
+    "text": "Hi Shannon! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "christina_e.html",
+    "href": "christina_e.html",
+    "title": "Christina E.",
+    "section": "",
+    "text": "Hi Christina! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "dan_b.html",
+    "href": "dan_b.html",
+    "title": "Dan B.",
+    "section": "",
+    "text": "Hi Dan! Your goal is to find someone who went to Norway this year. There are 4 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "melissa_m.html",
+    "href": "melissa_m.html",
+    "title": "Melissa M.",
+    "section": "",
+    "text": "Hi Melissa! Your goal is to find someone who has been in a Bible study with a parent of the bride or groom. There are 8 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "bram_v.html",
+    "href": "bram_v.html",
+    "title": "Bram V.",
+    "section": "",
+    "text": "Hi Bram! Your goal is to find someone who has lived in the Netherlands. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "rebecca_j.html",
+    "href": "rebecca_j.html",
+    "title": "Rebecca J.",
+    "section": "",
+    "text": "Hi Rebecca! Your goal is to find someone who grew up in Illinois. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "peter_k.html",
+    "href": "peter_k.html",
+    "title": "Peter K.",
+    "section": "",
+    "text": "Hi Peter! Your goal is to find someone who lives in the Washington, DC area. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "nick_m.html",
+    "href": "nick_m.html",
+    "title": "Nick M.",
+    "section": "",
+    "text": "Hi Nick! Your goal is to find someone who has owned a pair of fins for boogie boarding. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "rachel_c.html",
+    "href": "rachel_c.html",
+    "title": "Rachel C.",
+    "section": "",
+    "text": "Hi Rachel! Your goal is to find someone who is or has been a medical resident in the state of Michigan. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "kelley_p.html",
+    "href": "kelley_p.html",
+    "title": "Kelley P.",
+    "section": "",
+    "text": "Hi Kelley! Your goal is to find someone who is here with one of the Poole brothers. There are 1 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "mindy_l.html",
+    "href": "mindy_l.html",
+    "title": "Mindy L.",
+    "section": "",
+    "text": "Hi Mindy! Your goal is to find someone who has had a close family member in Idaho. There are 1 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "nick_l.html",
+    "href": "nick_l.html",
+    "title": "Nick L.",
+    "section": "",
+    "text": "Hi Nick! Your goal is to find someone who graduated from Davis. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "nanum_j.html",
+    "href": "nanum_j.html",
+    "title": "Nanum J.",
+    "section": "",
+    "text": "Hi Nanum! Your goal is to find someone who has been training for a half marathon. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "heejoon_u.html",
+    "href": "heejoon_u.html",
+    "title": "Heejoon U.",
+    "section": "",
+    "text": "Hi Heejoon! Your goal is to find someone who lives near the 405 in LA. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "soonhong's_g.html",
+    "href": "soonhong's_g.html",
+    "title": "Soonhong’s G.",
+    "section": "",
+    "text": "Hi Soonhong’s! Your goal is to find someone who maintains an Instagram account connected to their hobby. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "baobao_z.html",
+    "href": "baobao_z.html",
+    "title": "Baobao Z.",
+    "section": "",
+    "text": "Hi Baobao! Your goal is to find someone who enjoys cross-country skiing. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "ian_l.html",
+    "href": "ian_l.html",
+    "title": "Ian L.",
+    "section": "",
+    "text": "Hi Ian! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "marco_r.html",
+    "href": "marco_r.html",
+    "title": "Marco R.",
+    "section": "",
+    "text": "Hi Marco! Your goal is to find someone who NANA. There are 13 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "peter_l.html",
+    "href": "peter_l.html",
+    "title": "Peter L.",
+    "section": "",
+    "text": "Hi Peter! Your goal is to find someone who sang in a choir in college. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "raul_e.html",
+    "href": "raul_e.html",
+    "title": "Raul E.",
+    "section": "",
+    "text": "Hi Raul! Your goal is to find someone who is a sibling or sibling-in-law of a parent of the bride or groom. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "troy_p.html",
+    "href": "troy_p.html",
+    "title": "Troy P.",
+    "section": "",
+    "text": "Hi Troy! Your goal is to find someone who has owned a pair of fins for boogie boarding. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "brian_s.html",
+    "href": "brian_s.html",
+    "title": "Brian S.",
+    "section": "",
+    "text": "Hi Brian! Your goal is to find someone who sang in a choir in college. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "brent_p.html",
+    "href": "brent_p.html",
+    "title": "Brent P.",
+    "section": "",
+    "text": "Hi Brent! Your goal is to find someone who has trained to be a firefighter. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "kathy_l.html",
+    "href": "kathy_l.html",
+    "title": "Kathy L.",
+    "section": "",
+    "text": "Hi Kathy! Your goal is to find someone who was a schoolteacher for many years. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "jackie_e.html",
+    "href": "jackie_e.html",
+    "title": "Jackie E.",
+    "section": "",
+    "text": "Hi Jackie! Your goal is to find someone who is a sibling or sibling-in-law of a parent of the bride or groom. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "maritsa_n.html",
+    "href": "maritsa_n.html",
+    "title": "Maritsa N.",
+    "section": "",
+    "text": "Hi Maritsa! Your goal is to find someone who came with someone who works with Katie. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "jarrett_c.html",
+    "href": "jarrett_c.html",
+    "title": "Jarrett C.",
+    "section": "",
+    "text": "Hi Jarrett! Your goal is to find someone who can be the life of the party in a youth group or on the dance floor. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "carol_l.html",
+    "href": "carol_l.html",
+    "title": "Carol L.",
+    "section": "",
+    "text": "Hi Carol! Your goal is to find someone who has backpacked with Ian in Yosemite. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "debbie_b.html",
+    "href": "debbie_b.html",
+    "title": "Debbie B.",
+    "section": "",
+    "text": "Hi Debbie! Your goal is to find someone who went to Norway this year. There are 4 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "shengxi_l.html",
+    "href": "shengxi_l.html",
+    "title": "Shengxi L.",
+    "section": "",
+    "text": "Hi Shengxi! Your goal is to find someone who was a student with Ian, but then went on to get a law degree. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "chelsea_c.html",
+    "href": "chelsea_c.html",
+    "title": "Chelsea C.",
+    "section": "",
+    "text": "Hi Chelsea! Your goal is to find someone who lives near the 405 in LA. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "becca_t.html",
+    "href": "becca_t.html",
+    "title": "Becca T.",
+    "section": "",
+    "text": "Hi Becca! Your goal is to find someone who is a cousin of the bride or groom. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "jeff_l.html",
+    "href": "jeff_l.html",
+    "title": "Jeff L.",
+    "section": "",
+    "text": "Hi Jeff! Your goal is to find someone who has camped with Ian’s family. There are 4 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "gerald_h.html",
+    "href": "gerald_h.html",
+    "title": "Gerald H.",
+    "section": "",
+    "text": "Hi Gerald! Your goal is to find someone who grew up in Illinois. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "julie_l.html",
+    "href": "julie_l.html",
+    "title": "Julie L.",
+    "section": "",
+    "text": "Hi Julie! Your goal is to find someone who has a child who will be a student at USC this spring (or is already). There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "david_n.html",
+    "href": "david_n.html",
+    "title": "David N.",
+    "section": "",
+    "text": "Hi David! Your goal is to find someone who has backpacked with Ian in Yosemite. There are 2 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "nora_a.html",
+    "href": "nora_a.html",
+    "title": "Nora A.",
+    "section": "",
+    "text": "Hi Nora! Your goal is to find someone who has lived in Maryland. There are 3 people (including you) with this clue. See if you can find them all!"
+  },
+  {
+    "objectID": "claudia_r.html",
+    "href": "claudia_r.html",
+    "title": "Claudia R.",
+    "section": "",
+    "text": "Hi Claudia! Your goal is to find someone who has been in a Bible study with a parent of the bride or groom. There are 8 people (including you) with this clue. See if you can find them all!"
   },
   {
     "objectID": "doris_a.html",

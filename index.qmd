@@ -2,9 +2,6 @@
 title: "Find Someone Who"
 ---
 
-To play, first find your personalized clue! Either
+To play, open your personalized clue! Start typing your first name in the search or open the menu for a list.
 
-* starty typing your first name in the search field
-* or click the top-left button to find yourself in a list of names
-
-If you don't see yourself on the list, we must have missed you with a technical glitch. We are only amateurs at phone-based wedding games!
+If your name is missing, we apologize for the glitch---we are amateur app developers!
