@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  sidebar:
+      - text: "List of Names"
+        menu:
+          - ian_l.qmd
+          - katie_l.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
