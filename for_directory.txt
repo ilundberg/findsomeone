@@ -19,7 +19,6 @@
           - chelsea_c.qmd
           - christina_e.qmd
           - christina_s.qmd
-          - christopher_f.qmd
           - claudia_r.qmd
           - cody_l.qmd
           - cyndi_d.qmd
@@ -50,11 +49,11 @@
           - ian_l.qmd
           - irven_l.qmd
           - jackie_e.qmd
+          - jackie_v.qmd
           - jan_c.qmd
           - jarrett_c.qmd
           - jeff_l.qmd
           - jennie_b.qmd
-          - jennie_l.qmd
           - jesaiah_c.qmd
           - jessica_w.qmd
           - josh_b.qmd
@@ -72,7 +71,7 @@
           - marco_r.qmd
           - maritsa_n.qmd
           - mark_r.qmd
-          - matt_na.qmd
+          - matt_s.qmd
           - melissa_m.qmd
           - mindy_l.qmd
           - nanum_j.qmd
